@@ -1,0 +1,34 @@
+--------------------------------------------------------------------------------------
+! [Winos] (Silver Fox Winos/winos.png)    
+The fully restored version is not a mutilated source code, and all backdoors have been removed. One-click compilation, code optimization, bug fixing
+Fixed the issue that the scheduled task was invalid
+Fixed the issue that the shellcode process could not be used when injected
+Fixed screen monitoring crash
+Fixed the UDP freeze issue
+Fixed the issue of multi-terminal domain names being launched
+Fixed the issue of being blocked by 360 when going online
+Fixed several other minor bugs
+The stability and performance of the communication framework are improved.
+Process management optimization.
+Multi-process online mutual exclusion optimization.
+Upgrade the communication encryption algorithm to remove traffic characteristics and strengthen security.
+Controlled registry storage encryption upgrade.
+Rewrite part of the logic
+Disclaimer: Please note that this repository is for study and research purposes only. When using any technology related to malware development, please comply with local laws and regulations and refrain from any illegal activities. The maintainers of this repository are not responsible for the consequences of any improper use.
+ --------------------------------------------------------------------------------------
+完整修复版非残缺源码，已去除所有暗桩后门。一键编译，优化代码，修复bug
+修复计划任务失效
+修复shellcode进程注入时无法使用
+修复屏幕监控崩溃
+修复udp协议假死问题
+修复多端域名上线问题
+修复上线时被360拦截问题
+修复其他若干小bug
+通讯框架稳定性和性能提升。
+进程管理优化。
+多进程上线互斥优化。
+升级通讯加密算法，去除流量特征，加强安全性。
+被控端注册表存储加密升级。
+重写部分逻辑
+免责声明: 请注意，本仓库仅用于学习和研究目的。在使用任何与恶意软件开发相关的技术时，请遵守当地法律法规，不要进行任何违法活动。对于任何不当使用造成的后果，本仓库的维护者不承担任何责任。
+
